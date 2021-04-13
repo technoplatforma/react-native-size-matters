@@ -34,7 +34,7 @@ declare module "react-native-size-matters" {
     export function vs(size: number): number;
     export function ms(size: number, factor?: number): number;
     export function mvs(size: number, factor?: number): number;
-    export function setGuideLines(width: number, height: number): void
+    export function setGuideLines(width: number, height: number, factor: number): void
 
     type NamedStyles<T> = { [P in keyof T]: RN.ViewStyle | RN.TextStyle | RN.ImageStyle | StringifiedStyles };
 
