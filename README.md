@@ -1,4 +1,9 @@
 # 📐 react-native-size-matters
+
+First fork: https://github.com/nirsky/react-native-size-matters
+
+Second fork: https://github.com/Connect-Club/react-native-size-matters
+
 [![NPM version](https://img.shields.io/npm/v/react-native-size-matters.svg)](https://www.npmjs.com/package/react-native-size-matters) 
 [![Actions Status: test](https://github.com/nirsky/react-native-size-matters/workflows/Test/badge.svg)](https://github.com/nirsky/react-native-size-matters/actions?query=workflow%3ATest)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
